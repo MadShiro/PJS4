@@ -1,0 +1,116 @@
+body{
+    background-color: 	#C4D4EB;
+}
+
+/* INFOS */
+
+#infos{
+    margin-top: 5%;
+    margin-left: 10%;
+    width : 20%;
+    height: 75%;
+    background-color: #D8E0EB;
+    border-radius: 20px;
+}
+
+#infos img{
+    border-radius: 100%;
+    float: left;
+    height : 40%;
+    width: 40%;
+}
+
+#infos li{
+    list-style: none;
+    white-space: pre-wrap;
+}
+
+#infosTxt{
+    transform: translate(1%, 10%);
+}
+
+/* DESCRIPTION */
+#description{
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 50%;
+    height: 100px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+/* AMIS */
+h2{
+    margin-left: 10%;
+}
+
+#amis {
+    margin-left: 10%;
+    width: 400px;
+    height: 300px;
+    overflow-y: auto;
+}
+
+#amis img{
+    margin-left : 5%;
+    margin-top: 5%;
+    border-radius: 100%;
+    height : 40%;
+    width: 40%;
+}
+
+#amis p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    float:right;
+    transform: translate(1%,200%);
+}
+
+.potes{
+    margin-top: 5%;
+    border-radius: 20px;
+    background-color: azure;
+}
+
+/* EVENTS */
+
+#events {
+    float: right;
+    margin-right: 10%;
+    width: 400px;
+    height: 300px;
+    overflow-y: auto;
+}
+
+.event{
+    margin-top: 5%;
+    border-radius: 20px;
+    background-color: azure;
+}
+
+.event img{
+    margin-left : 5%;
+    margin-top: 5%;
+    border-radius: 100%;
+    height : 100%;
+    width: 100%;
+}
+
+.event a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    width: 70%;
+    /*float:right;*/
+}
+
+.bouton{
+    background: #009975;
+    color: #fff;
+    border: none;
+    outline: none;
+    font-size: 17px;
+    padding: 5px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+}

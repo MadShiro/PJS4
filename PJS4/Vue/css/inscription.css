@@ -1,0 +1,60 @@
+
+body{
+    background-color: 	#C4D4EB;
+}
+
+input { 
+    border-radius: 20px;
+    border-style: none;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+
+#genre{
+    width : 50%;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 2%;
+}
+
+#genre p{
+    text-align: center;
+}
+
+button{
+    margin-left: 50%;
+    margin-top : 5%;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.connexion{
+    padding-top: 10%;
+    padding-bottom: 20%;
+    background-color: #C4F4FF;
+    border-radius : 20px;
+    /*margin-top: 15%;*/
+    width : 100%;
+}
+
+.inscription{
+    border-radius : 20px;
+    /*padding-top: 25%;
+    padding-bottom: 5%;*/
+    background-color: #C4F4FF;
+}
+
+.bouton{
+    margin-left: 50%;
+    margin-top : 5%;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.input{
+    border-radius: 20px;
+    border-style: none;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}

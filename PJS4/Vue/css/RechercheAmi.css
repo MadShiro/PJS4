@@ -1,0 +1,17 @@
+#listeAmis{
+}
+
+.potes{
+    padding-top: 5%;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+
+.potes img{
+    width : 25%;
+    height : 100%;
+}
+
+.potes p{
+    width : 75%;
+}
